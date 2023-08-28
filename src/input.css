@@ -1,0 +1,51 @@
+@import url('https://fonts.googleapis.com/css2?family=Epilogue:wght@500;700&display=swap');
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+.toggle-list {
+    @apply truncate max-h-0;
+}
+
+/* These will be toggled when the menu arrow icon is clicked */
+.add-margin-top {
+    margin-top: 1rem;   /*1. These adds mt to the list*/
+}
+
+.rotate-arrow-icon {
+    transform: rotate(180deg);   /*2*/
+}
+
+/* Transition for mobile-menu-list */
+.M-menu-list-trans {
+    @apply transition-[max-height] duration-300 ease-in-out;
+}
+
+/* Transition Menu sidebar */
+.menu-sidebar {
+    @apply bg-white w-[65%] fixed right-[-65%] top-0 min-h-screen 
+    transition-[right] duration-300 ease-in-out;
+}
+
+.sidebar-open {
+    right: 0; /* Show the sidebar */
+}
+
+/* Grid styles */
+.menu-header {
+    display: grid;
+    grid-template-columns: 28% 28% 22% auto;   /*1*/
+}
+
+.left-pri {
+    display: grid;
+    grid-template-columns: minmax(0, 5.5rem) minmax(0, 22.5rem);
+    gap: 2rem;
+}
+
+/* Desktop-nav hover-state */
+.hover {
+    @apply hover:text-almostBlack hover:cursor-pointer hover:border-almostBlack;
+}

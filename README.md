@@ -15,7 +15,6 @@ This is a solution to the [Intro section with dropdown navigation challenge on F
   - [Useful resources](#useful-resources)
 - [Author](#author)
 
-**Note: Delete this note and update the table of contents based on what sections you keep.**
 
 ## Overview
 
@@ -40,8 +39,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Check out my solution on Front end mentor](https://www.frontendmentor.io/solutions/responsive-snap-landing-page-built-with-tailwindcss-and-vanilla-js-uXmO5AiJCI)
+- Live Site URL: [Check out the live site](https://martinsgundi-snap-landing-page.netlify.app/)
 
 ## My process
 
@@ -77,5 +76,3 @@ After finishing this project using Tailwindcss, I will surely want to learn more
 - Linkedin - [Martins Ogundipe](https://www.linkedin.com/in/martinsgundi)
 - Frontend Mentor - [Martinsgundi](https://www.frontendmentor.io/profile/Martinsgundi)
 - Twitter - [Martinsgundi1](https://www.twitter.com/martinsgundi1)
-
-**Note: Delete this note and add/remove/edit lines above based on what links you'd like to share.**

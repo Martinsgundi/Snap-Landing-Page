@@ -67,7 +67,7 @@ After finishing this project using Tailwindcss, I will surely want to learn more
 
 ### Useful resources
 
-- [Net Ninja](https://www.youtube.com/@NetNinja) - Net ninja's Tailwind playlist helped me understand the fundamentals of Tailwindcss.
+- [Net Ninja](https://www.youtube.com/watch?v=bxmDnn7lrnk&list=PL4cUxeGkcC9gpXORlEHjc5bgnIi5HEGhw&pp=iAQB) - Net ninja's Tailwindcss playlist helped me understand the fundamentals of Tailwindcss.
 - [Traversy Media](https://www.youtube.com/watch?v=dFgzHOX84xQ&t=696s) - This video really helped with the installation and initialization process of Tailwindcss on my local PC. 
 
 
